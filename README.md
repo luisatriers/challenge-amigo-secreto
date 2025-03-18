@@ -1,14 +1,14 @@
 <div align="center">
 <h1>Challenge: Amigo Secreto</h1>
 <h2>Sorteador de Amigos</h2> 
-<h4>Um sorteador que retorna um nome aleatório dentro de uma lista de nomes inseridos pelo usuário</h4>
+<p>Um sorteador que retorna um nome aleatório dentro de uma lista de nomes inseridos pelo usuário</p>
 
 <br>
 <p>Projeto desenvolvido para o Challenge da Alura dentro da Formação de Iniciante em Programação G8 - ONE (Oracle Next Education.</p>
 
 [+ Ver Projeto](https://luisatriers.github.io/challenge-amigo-secreto/)
 
-<p><img src="http://img.shields.io/static/v1?label=STATUS%20DO%20PROJETO&message=CONCLUÍDO&color=GREEN&style=for-the-badge&" alt="Status do Projeto: Concluído"></p>
+<img src="https://img.shields.io/badge/STATUS_DO_PROJETO-CONCLUÍDO-green" alt="Status do Projeto: Concluído">
 
 <h2>Funcionalidades + Screenshots</h2>
 
